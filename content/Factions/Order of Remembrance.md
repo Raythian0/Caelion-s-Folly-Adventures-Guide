@@ -1,3 +1,4 @@
+#Faction
 *“Life is a Gift, Death is a Promise.”*
 
 Order in service to the Raven Queen, As the Order is Lawful Neutral that's focus is on balance of life and death. The more a place prospers the larger the harvest for the Raven Queen.

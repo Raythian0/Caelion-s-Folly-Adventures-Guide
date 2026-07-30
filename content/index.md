@@ -1,3 +1,3 @@
-Characters
+**Characters**
 [[Otebon son of Geralt]]
-[[Saber's Character]]
+[[Ty'rah]]
