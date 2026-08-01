@@ -1,3 +1,3 @@
-**Characters**
-[[Otebon son of Geralt]]
-[[Ty'rah]]
+**Characters**  
+[[Otebon son of Geralt]]  
+[[Ty'rah]]  
