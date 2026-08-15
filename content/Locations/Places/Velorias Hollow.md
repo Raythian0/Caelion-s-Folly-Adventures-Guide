@@ -4,7 +4,7 @@ Passing through the streets the building are abandoned and are unnaturally rotte
 
 The town centre expected to be a place of life and commerce stands as a wandering grounds of the spectres.  
   
-The most prominent place, the Cathedral, north of the town square. The only sign of life, with the dead roaming in its direction.  
+The most prominent place, the Cathedral, north of the town square. The only sign of life, with the dead roaming in its direction. A place named after an unknown Saint.  
   
 The dead found here appear to be freshly dug up. Worn clothes, decayed with stone in them, look to be inscribed.
   
