@@ -6,10 +6,10 @@ A large room with a raised platform in the centre.
 Has a large celestial telescope.  
 Ceiling is an impossibly large star scape.  
 There is an exit that spirals down to the lower level.  
-![[Pasted image 20260801205911.png]]
+![[Caelion's Tower Observatory.png]]
 
 **Gateway Chamber**  
-![[Pasted image 20260801203650.png]]
+![[Caelion's Tower Gateway Chamber.png]]
 
 **Hall of Embers**  
 3rd floor is sealed  

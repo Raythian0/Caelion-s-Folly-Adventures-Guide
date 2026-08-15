@@ -1,21 +1,20 @@
 #Place 
-Place absent of life.  
-After entering the gate there is a village, place is abandoned.  It looks dilapidated and weathered.  
-Air has and eery silence.  
-Billboard is rotted but not aged. The single ab billboards state is unnatural.  
-Images on the board are distorted, looks like an anvil and hammer. May be another shape.  
+A town absent of life, eery silence fills the air. The souls of the dead roam the streets, not aware of their fate. Spectres of the past go about their routines.  
+Passing through the streets the building are abandoned and are unnaturally rotted.  
 
-Towards the Cathedral there appears to figures, lumped on the ground (Bodies) and a figure standing nearby further down the road.  
-Bodies appear to be freshly dug up. Worn clothes, decayed with stone in them, look to be inscribed. Does not have the smell of a dead body.  
-
-The Smithy is completely cold. Doors and windows barricaded. Corpses around the barricades, damaged by blunt force.  
-Blacksmith, [[Gerrik Ironvien]], seems hostile and a bit rough.  
-
-
-![[Pasted image 20260801215501.png]]
+The town centre expected to be a place of life and commerce stands as a wandering grounds of the spectres.  
+  
+The most prominent place, the Cathedral, north of the town square. The only sign of life, with the dead roaming in its direction.  
+  
+The dead found here appear to be freshly dug up. Worn clothes, decayed with stone in them, look to be inscribed.
+  
+This is where the blacksmith [[Gerrik Ironvien]] lived before the dead came for him. He made his stand at his smithy leaving a large pile of bodies around his home. The Adventures find him secured there.
 
 
-![[Pasted image 20260801215518.png]]
+![[Velorias Hollow Town Square.png]]
 
 
-![[Pasted image 20260801222153.png]]
+![[Velorias Hollow Town Square 2.png]]
+
+
+![[Velorias Hollow Cathedral Road.png]]
